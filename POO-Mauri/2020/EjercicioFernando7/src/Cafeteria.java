@@ -25,6 +25,9 @@ public class Cafeteria {
     private JTextField TxtID;
     private JTextField TxtNombre;
     private JButton BttAceptar;
+    private JButton BttVerAbiertas;
+    private JButton BttVerCerradas;
+    private JButton BttVerCaja;
 
 
     public Cafeteria() {
@@ -181,16 +184,67 @@ public class Cafeteria {
 
             }
         });
+        BttVerAbiertas.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                TAMostrar.setText(" ");
+                ArrayList<Mesa>ListaMesasLibres=new ArrayList<>();
+                for (Mesa MesaActual: ListaMesas) {
+                    if(MesaActual.Estado){
+                       ListaMesasLibres.add(MesaActual);
+                    }
+                }
+                VerMesas(ListaMesasLibres);
+            }
+        });
+        BttVerCerradas.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                TAMostrar.setText(" ");
+                ArrayList<Mesa>ListaMesasCerradas=new ArrayList<>();
+                for (Mesa MesaActual: ListaMesas) {
+                    if(!MesaActual.Estado){
+                        ListaMesasCerradas.add(MesaActual);
+                    }
+                }
+                TAMostrar.setText("");
+                VerMesas(ListaMesasCerradas);
+            }
+
+        });
+        BttVerCaja.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                TAMostrar.setText(" ");
+                double cajatotal=0;
+                for (Mesa MesaActual:ListaMesas) {
+                    cajatotal+=Cobrar(MesaActual);
+                }
+                LblCuenta.setText("Total ="+cajatotal+"€");
+            }
+
+        });
     }
 
-    private void Cobrar(Mesa mesaACTUAL) {
+    private void VerMesas(ArrayList<Mesa> ListaMesas) {
+        for (Mesa MesaActaul: ListaMesas
+        ) {
+            TAMostrar.append(" Mesa(s) ="+MesaActaul.ID);
+
+        }
+
+    }
+
+    private double Cobrar(Mesa mesaACTUAL) {
         double factura = 0;
         for (Producto Productoactual: mesaACTUAL.getListaProductosMesa()) {
             factura+=Productoactual.getPrecio();
         }
 
         LblCuenta.setText("La cuenta de la mesa "+mesaACTUAL.ID+" : " +String.valueOf(factura)+"€");
+        return factura;
     }
+
 
     private void EnseñarMesa(Mesa MesaElegida) {
         TAMostrar.setText("");
