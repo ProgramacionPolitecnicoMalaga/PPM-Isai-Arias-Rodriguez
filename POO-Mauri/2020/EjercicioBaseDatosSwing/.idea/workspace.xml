@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c2f0cb0-c255-4f70-ad85-6d1b3c66cc77" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - Empleados@vps791421.ovh.net" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - Empleados@vps791421.ovh.net" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL - Empleados@vps791421.ovh.net" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="Empleados: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="EjercicioBaseDatosSwing" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YtLs988VSgKEqXTUPl2uawMxv9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../libCommons/mysql-connector-java-8.0.13.jar!/" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\green\IdeaProjects\EjercicioBaseDatosSwing\src\Vista" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BBDApp (1)">
+    <configuration name="BBDApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vista.BBDApp" />
+      <module name="EjercicioBaseDatosSwing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Vista.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BBDApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BBDApp" />
+      <module name="EjercicioBaseDatosSwing" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BBDApp (1)" />
+        <item itemvalue="Application.BBDApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c2f0cb0-c255-4f70-ad85-6d1b3c66cc77" name="Default Changelist" comment="" />
+      <created>1583757147955</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583757147955</updated>
+      <workItem from="1583757150447" duration="2890000" />
+      <workItem from="1583770827768" duration="1220000" />
+      <workItem from="1583829495942" duration="3683000" />
+      <workItem from="1583915129749" duration="763000" />
+      <workItem from="1583939927428" duration="2244000" />
+      <workItem from="1584011455165" duration="10898000" />
+      <workItem from="1584040096941" duration="9749000" />
+      <workItem from="1585415652729" duration="3421000" />
+      <workItem from="1585439887415" duration="3323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="21" key="#Deployment" timestamp="1583915143487">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="21" key="#Deployment/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1583915143487" />
+    <state x="272" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584014260902">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="272" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1583915150662" />
+    <state x="272" y="21" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1584014260902" />
+    <state x="487" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1585440628932">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="487" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1583830252775" />
+    <state x="487" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1585440628932" />
+    <state x="462" y="118" key="FileChooserDialogImpl" timestamp="1584014061538">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1583759004848" />
+    <state x="462" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1584014061538" />
+    <state width="1321" height="176" key="GridCell.Tab.0.bottom" timestamp="1585443103209">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585443103209" />
+    <state width="635" height="178" key="GridCell.Tab.0.bottom/0.40.1366.728@0.40.1366.728" timestamp="1584031554816" />
+    <state width="1321" height="176" key="GridCell.Tab.0.center" timestamp="1585443103209">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1585443103209" />
+    <state width="635" height="178" key="GridCell.Tab.0.center/0.40.1366.728@0.40.1366.728" timestamp="1584031554816" />
+    <state width="1321" height="176" key="GridCell.Tab.0.left" timestamp="1585443103209">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1585443103209" />
+    <state width="635" height="178" key="GridCell.Tab.0.left/0.40.1366.728@0.40.1366.728" timestamp="1584031554816" />
+    <state width="1321" height="176" key="GridCell.Tab.0.right" timestamp="1585443103209">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1585443103209" />
+    <state width="635" height="178" key="GridCell.Tab.0.right/0.40.1366.728@0.40.1366.728" timestamp="1584031554816" />
+    <state width="1321" height="222" key="GridCell.Tab.1.bottom" timestamp="1585419444602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1585419444602" />
+    <state width="1321" height="222" key="GridCell.Tab.1.center" timestamp="1585419444602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1585419444602" />
+    <state width="1321" height="222" key="GridCell.Tab.1.left" timestamp="1585419444602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1585419444602" />
+    <state width="1321" height="222" key="GridCell.Tab.1.right" timestamp="1585419444602">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1321" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1585419444602" />
+    <state x="162" y="0" key="SettingsEditor" timestamp="1584014067068">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="162" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584014067068" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1585440053866">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1583829514403" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1585440053866" />
+    <state x="64" y="0" key="new project wizard" timestamp="1583833190936">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="64" y="0" key="new project wizard/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1583833190936" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1585442686269">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1585442686269" />
+  </component>
+</project>
